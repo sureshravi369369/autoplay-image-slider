@@ -1,0 +1,13 @@
+.ads{
+    width:100%;
+    height:280px;
+}
+
+.myslides{
+    width:100%;
+    height:280px;
+    position: absolute;
+}
+.myslidesnone{
+    display: none;
+}
